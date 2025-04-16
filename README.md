@@ -1,4 +1,4 @@
-### <div align="center"> <h2>Hi there, stranger! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome & Thanks for following 👍</h2> </div> 
+### <div align="center"> <h2>Hi there, stranger! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome & Thanks for stopping by 👍</h2> </div> 
 
 I love building things that solve real-world problems using code 💻 and creativity 🎨  
 Currently pursuing MS in Computer Engineering @ NYU 🗽 | Passionate about AI, MLOps, and Full-Stack Development
