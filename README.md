@@ -1,4 +1,4 @@
-# Hi there, stranger! 👋 Welcome & Thanks for stopping by 👍
+# Hi there, stranger! <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9577/wave.gif?1593555389" width="30" /> Welcome & Thanks for stopping by 👍
 
 I love building things that solve real-world problems using code 💻 and creativity 🎨  
 Currently pursuing MS in Computer Engineering @ NYU 🗽 | Passionate about AI, MLOps, and Full-Stack Development
