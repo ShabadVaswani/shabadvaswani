@@ -20,12 +20,6 @@ Currently pursuing MS in Computer Engineering @ NYU 🗽 | Passionate about AI, 
 
 ---
 
-### 🗣️ Talks / Events (if you want this section)
-I’d love to give tech talks!  
-Drop me a message at **shabad.vaswani@nyu.edu** or reach out on [LinkedIn](https://linkedin.com/in/shabadvaswani)
-
----
-
 ### 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shabadvaswani)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/shabadvaswani)
