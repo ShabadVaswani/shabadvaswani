@@ -45,7 +45,3 @@
 </p>
 
 ---
-
-> *“Code is poetry — let's write something meaningful.”*  
-> *— Shabad Vaswani*
-
