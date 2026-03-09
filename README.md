@@ -26,9 +26,6 @@
 - 🤖 **Gen AI Playground**  
   Playing with LLMs, chat interfaces & prompt tuning — Next.js + HuggingFace  
 
-- 🛕 **Volunteer Dev @ Hare Krishna Temple NYC**  
-  Event registration & tracking system using Google Cloud Sheets API + React + Vercel
-
 ---
 
 ### 🌐 Let's Connect
