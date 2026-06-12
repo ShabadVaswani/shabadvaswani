@@ -3,7 +3,7 @@
 </div> 
 
 <p align="center">
-  🚀 <b>MS in Computer Engineering @ New York University</b> (Expected May 2026) <br>
+  🚀 <b>MS in Computer Engineering @ New York University</b><br>
   ⚙️ Distributed Systems | 🧪 MLOps | 🌐 Backend Infrastructure <br>
   💼 <b>Actively seeking 2026 New Grad Full-Time roles in Software/Backend Engineering & AI Infrastructure</b>
 </p>
